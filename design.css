@@ -1,0 +1,22 @@
+* {
+	color: #333;
+	text-shadow: 0 0 .0625rem #ccc;
+	margin: .25rem;
+	padding: .25rem;
+}
+
+body {
+	max-width: 33rem;
+	margin: auto;
+	padding: 1rem;
+	background: #eee;
+	box-shadow: 0 0 .125rem #ccc ;
+}
+
+h1, h2 {
+	padding: .25rem 1rem;
+	color: #eee;
+	background: #333;
+	box-shadow: 0 0 .125rem #ccc;
+	border-radius: .125rem;
+}

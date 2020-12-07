@@ -4,7 +4,6 @@
 	<meta name="author" content="J.L. Normand">
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="design.css">
-	<title>J.l. Normand</title>
 </head>
 
 <body>

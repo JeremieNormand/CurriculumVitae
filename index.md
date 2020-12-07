@@ -184,7 +184,7 @@
 			<h2>Contact</h2>
 			<div>
 				<h3>Courriel</h3>
-				<p>j.l.normand@mail.fr</p>
+				<p>jeremie.l.normand@gmail.com</p>
 			</div>
 		</section>
 	</main>

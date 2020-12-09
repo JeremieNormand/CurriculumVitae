@@ -8,7 +8,7 @@
 
 <body>
 	<header>
-		<h1>J.l. Normand</h1>
+		<h1>J.L. Normand</h1>
 		<div>
 			<h3>Nom complet</h3>
 			<p>Jérémie Lionel Normand</p>
@@ -170,7 +170,7 @@
 			<h2>Particularites</h2>
 			<div>
 				<h3>Apprentissages rapides</h3>
-				<p>Se plait a comprendre de nouveau concept.</p>
+				<p>Se plait a comprendre de nouveaux concepts.</p>
 			</div>
 			<div>
 				<h3>Is trying his best</h3>

@@ -1,7 +1,6 @@
 <html lang="en">
 
 <head>
-	<meta name="author" content="J.L. Normand">
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="design.css">
 </head>

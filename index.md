@@ -9,7 +9,6 @@ Homme de 24 ans
 ### Home
 Quebec in Canada
 
----
 
 ## Diplomes
 
@@ -17,20 +16,22 @@ Quebec in Canada
 Cegep de Levis-Lauzon
 2016
 
+
 ## Certifications
 
 ### ASP construction sante et securite
 Universite de Sherbrooke
 2016
 
+
 ## Postes
 
 ### SiliCycle
-#### Technicien de procedes en fabrication de silice
+#### Technicien de procedes en production de silice
 2020
 - Assister l'equipe de techniciens de procedes dans leurs taches.
 - Comprendre le systeme de documentation de l'entreprise.
-- Apprendre differentes procedures de controle de procede.
+- Apprendre differentes procedures de controle de procedes.
 - Suivre les etapes de production de divers composes chimiques.
 - Accomplir diverses taches de manutention et d'entretient.
 - Produire plusieurs lot d'un compose selon un horaire rigoureux.
@@ -38,12 +39,12 @@ Universite de Sherbrooke
 ### Corem
 #### Technicien de laboratoire en procedes hydrometallurgiques
 2019
-- Processer les echantillons bruts provenant des mines.
+- Diviser les echantillons bruts provenant des clients.
 - Suivre attentivement les consignes de securite.
-- Assembler des montages de dimension moderee.
-- Effectuer de multiples operations hydrometallurgiques.
+- Assembler des montages de dimension moyenne.
+- Effectuer de differentes operations hydrometallurgiques.
 - Operer plusieurs reacteurs de laboratoire.
-- Enregistrer de nombreuses donnees d'operations.
+- Enregistrer des donnees d'operations selon un format standardise.
 
 
 ### Valero
@@ -55,7 +56,7 @@ Universite de Sherbrooke
 - Interpreter les donnees de procedes.
 - Prevenir les personnes concernees de toutes anomalies significatives.
 - Surveiller la maintenance d'unites de production.
-- Agir en tant que guide pour visteur specialiste.
+- Agir en tant que guide pour des visteurs specialises.
 - Participer a l'amelioration de la documentation des procedes.
 
 ### Pyrotek
@@ -72,7 +73,7 @@ Universite de Sherbrooke
 ### Canadian Malartic
 #### Technicien de laboratoire en procedes miniers
 2016
-- Agir en tant que prepose de laboratoire hydrometallurgique.
+- Agir en tant que prepose de laboratoire.
 - Echantillonner le procede d'extraction de metaux.
 - Receptionner les echantillons provenant du procede d'extraction.
 - Preparer et manutentionner les echantillons.
@@ -97,12 +98,12 @@ Universite de Sherbrooke
 - Maintenir les lieux propres et securitaires.
 - Remplir diverses taches de maintenances.
 - Operer les differents equipements hydroliques.
-- Prendre en charge la ferme lorsque les proprietaires s'absentent.
+- Prendre en charge la ferme lorsque les proprietaires sont absent.
 
 ### Famille Normand
 #### Enfant ouvrier
 2005
-- Assimiler efficacement les directives des taches a accomplir.
+- Assimiler efficacement des directives.
 - Penser de facons logiques et preventives.
 - Comprendre les forces et faiblesses de chacun.
 - Travailler en collaboration avec les membres d'une equipe.
@@ -119,9 +120,8 @@ Se plait a comprendre de nouveaux concepts.
 ### Is trying his best
 Doit composer avec un cerveau atypique.
 
+
 ## Contact
 
 ### Courriel
 jeremie.l.normand@gmail.com
-
-</html>

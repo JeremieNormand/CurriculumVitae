@@ -1,4 +1,4 @@
-# Curriculum Vitea
+# Curriculum Vitae
 
 ### Nom complet
 Jérémie Lionel Normand

@@ -1,121 +1,161 @@
-# J.L. Normand
-
-### Nom complet
-Jérémie Lionel Normand
+# Jérémie Normand
+Curriculum Vitae
 
 ### Qui suis-je
-Homme de 24 ans
+Un homme de 25 ans
 
 ### Home
-Quebec in Canada
+Comté de Bellechasse, Québec, Canada
 
 
-## Diplomes
+## Diplômes
 
-### Technicien en genie chimique
-Cegep de Levis-Lauzon
+### Technicien en génie chimique
+Cégep de Lévis-Lauzon
 2016
 
 
 ## Certifications
 
-### ASP construction sante et securite
-Universite de Sherbrooke
+### ASP construction sante et sécurité
+Université de Sherbrooke
 2016
+
+
+## Formations
+
+### Technicien en génie chimique
+Cégep de Lévis-Lauzon
+2013 - 2016
+
+### Ingénieur en génie chimique
+Université de Sherbrooke
+2016 - 2018
+
+### Technicien en informatique
+Cégep de Lévis
+2020 - 2023
 
 
 ## Postes
 
 ### SiliCycle
-#### Technicien de procedes en production de silice
+#### Technicien de procédés en production de silices
 2020
-- Assister l'equipe de techniciens de procedes dans leurs taches.
-- Comprendre le systeme de documentation de l'entreprise.
-- Apprendre differentes procedures de controle de procedes.
-- Suivre les etapes de production de divers composes chimiques.
-- Accomplir diverses taches de manutention et d'entretient.
-- Produire plusieurs lot d'un compose selon un horaire rigoureux.
+- Assister l'équipe de techniciens de procédés dans leurs tâches.
+- Comprendre le système de documentation de l'entreprise.
+- Apprendre differentes procédures de contrôle de procédés.
+- Suivre les étapes de production de divers composés chimiques.
+- Accomplir diverses tâches de manutention et d'entretient.
+- Produire plusieurs lot d'un composé selon un horaire rigoureux.
 
 ### Corem
-#### Technicien de laboratoire en procedes hydrometallurgiques
+#### Technicien de laboratoire en procédés hydrométallurgiques
 2019
-- Diviser les echantillons bruts provenant des clients.
-- Suivre attentivement les consignes de securite.
+- Diviser les échantillons bruts provenant des clients.
+- Suivre attentivement les consignes de securité.
 - Assembler des montages de dimension moyenne.
-- Effectuer de differentes operations hydrometallurgiques.
-- Operer plusieurs reacteurs de laboratoire.
-- Enregistrer des donnees d'operations selon un format standardise.
-
+- Effectuer de différentes opérations hydrométallurgiques.
+- Opérer plusieurs réacteurs de laboratoire.
+- Enregistrer des données d'opérations selon un format standardisé.
 
 ### Valero
-#### Ingenieur stagiaire en procedes petrochimiques
+#### Ingénieur stagiaire en procédés pétrochimiques
 2018
-- Assister les ingenieurs en charge de la transformation du petrole brut.
-- Mesurer plusieurs parametres sur la rafinerie a l'aide d'outils.
-- Effectuer la mise a jour des fichiers de suivis.
-- Interpreter les donnees de procedes.
-- Prevenir les personnes concernees de toutes anomalies significatives.
-- Surveiller la maintenance d'unites de production.
-- Agir en tant que guide pour des visteurs specialises.
-- Participer a l'amelioration de la documentation des procedes.
+- Assister les ingénieurs en charge de la transformation du pétrole brut.
+- Mesurer plusieurs paramêtres sur la rafinerie a l'aide d'outils.
+- Effectuer la mise-a-jour des fichiers de suivis.
+- Interpréter les données de procédés.
+- Prévenir les personnes concernées de toutes anomalies significatives.
+- Surveiller la maintenance d'unités de production.
+- Agir en tant que guide pour des visteurs spécialistes.
+- Participer a l'amélioration de la documentation des procédés.
 
 ### Pyrotek
-#### Ingenieur stagiaire en recherches et developpements
+#### Ingénieur stagiaire en recherches et développements
 2017
-- Assister l'ingenieur en charge des experimentations de recherche.
-- Fabriquer des echantillons de materiaux refractaires.
-- Effectuer des traitements parametres sur divers materiaux.
-- Echantillonner des produits pour resoudre des anomalies.
-- Reformater des donnees brutes d'instruments d'analyse.
-- Analizer statistiquement des donnees d'essais de laboratoire.
-- Surveiller des procedes de fabrication a l'aide de controle qualite.
+- Assister l'ingénieur en charge des expérimentations de recherche.
+- Fabriquer des échantillons de matériaux réfractaires.
+- Effectuer des traitements paramêtrés sur divers matériaux.
+- Échantillonner des produits pour resoudre des anomalies.
+- Reformater des données brutes d'instruments d'analyse.
+- Analizer statistiquement des données d'essais de laboratoire.
+- Surveiller des procédés de fabrication à l'aide de contrôle qualité.
 
 ### Canadian Malartic
-#### Technicien de laboratoire en procedes miniers
+#### Technicien de laboratoire en procédés miniers
 2016
-- Agir en tant que prepose de laboratoire.
-- Echantillonner le procede d'extraction de metaux.
-- Receptionner les echantillons provenant du procede d'extraction.
-- Preparer et manutentionner les echantillons.
-- Effectuer des tests de proprietes physiques.
+- Agir en tant que prépose de laboratoire.
+- Échantillonner le procédé d'extraction de métaux.
+- Réceptionner les échantillons provenant du procédé d'extraction.
+- Préparer et manutentionner les échantillons.
+- Effectuer des tests de propriétés physiques.
 - Suivre les bonnes pratiques de laboratoire.
-- Porter des equipements de protection individuel adequats.
-- Circuler de facon securitaire et conforme.
+- Porter des équipements de protection individuel adéquats.
+- Circuler de façon sécuritaire et conforme.
 
 ### CamPro MetoPlus
-#### Technicien stagiaire en procedes chimiques
+#### Technicien stagiaire en procédés chimiques
 2016
-- Assister le chimiste de procedes electrochimiques.
+- Assister le chimiste de procédés électrochimiques.
 - Participer au traitements des rejets industriels.
-- Documenter les differents risques d'expositions chimiques.
-- Comprendre les principales branches du procede de fabrications.
+- Documenter les différents risques d'expositions chimiques.
+- Comprendre les principales branches du procédé de fabrications.
 - Effectuer des analyses de laboratoire.
 
 ### Ferme Feodal
 #### Ouvrier de ferme laitiere
 2011
-- Assurer le bien etre des animaux.
-- Maintenir les lieux propres et securitaires.
-- Remplir diverses taches de maintenances.
-- Operer les differents equipements hydroliques.
-- Prendre en charge la ferme lorsque les proprietaires sont absent.
+- Assurer le bien être des animaux.
+- Maintenir les lieux propres et sécuritaires.
+- Remplir diverses tâches de maintenances.
+- Opérer les différents équipements hydrauliques.
+- Prendre en charge la ferme lorsque les propriétaires sont absent.
 
 ### Famille Normand
-#### Enfant ouvrier
+#### Enfant ouvrier jk
 2005
 - Assimiler efficacement des directives.
-- Penser de facons logiques et preventives.
+- Penser de façons logiques et préventives.
 - Comprendre les forces et faiblesses de chacun.
-- Travailler en collaboration avec les membres d'une equipe.
-- Ameliorer sa capaciter d'apprentissages.
-- Developper son sens du details.
-- Apprendre a se servir minutieusement d'outils divers.
-- Etre capable de travailler seul de facon auto-critique.
+- Travailler en collaboration avec les membres d'une équipe.
+- Améliorer sa capaciter d'apprentissages.
+- Développer son sens du details.
+- Apprendre à se servir minutieusement d'outils divers.
+- Être capable de travailler seul de façon auto-critique.
 
-## Particularites
 
-### Apprentissages rapides
-Se plait a comprendre de nouveaux concepts.
+## Compétences
+
+### Langue Française
+Avancé
+
+### Langue Anglaise
+Avancé
+
+### Suite Microsoft Office
+Avancé
+
+### Langage C Sharp (C#)
+Intermédiaire
+
+### Langage SQL
+Intermédiaire
+
+### Langage Visual Basic for Application (VBA)
+Intermédiaire
+
+### Langages HTML, CSS et JavaScript
+Intermédiaire
+
+### Langages Bash et PowerShell
+Débutant
+
+
+## Particularités
+
+### Bonne capacité d'apprentissage
+Se plait a comprendre de nouvelles choses.
 
 ### Is trying his best
 Doit composer avec un cerveau atypique.
@@ -124,4 +164,4 @@ Doit composer avec un cerveau atypique.
 ## Contact
 
 ### Courriel
-jeremie.l.normand@gmail.com
+jeremie.normand@hotmail.fr

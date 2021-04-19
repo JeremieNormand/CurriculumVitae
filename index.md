@@ -28,11 +28,11 @@ Université de Sherbrooke
 Cégep de Lévis-Lauzon
 2013 - 2016
 
-### Ingénieur en génie chimique
+### Ingénieur en génie chimique (partiel)
 Université de Sherbrooke
 2016 - 2018
 
-### Technicien en informatique
+### Technicien en informatique (en-cours)
 Cégep de Lévis
 2020 - 2023
 

@@ -150,6 +150,9 @@ Intermédiaire
 ### Langages Bash et PowerShell
 Débutant
 
+### Langage Python
+Intermédiaire
+
 
 ## Particularités
 

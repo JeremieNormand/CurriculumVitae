@@ -38,8 +38,8 @@ Cégep de Lévis
 
 ## Postes
 
-### SiliCycle
-#### Technicien de procédés en production de silices
+### Technicien de procédés en production de silices
+#### SiliCycle
 2020
 - Assister l'équipe de techniciens de procédés dans leurs tâches.
 - Comprendre le système de documentation de l'entreprise.
@@ -48,8 +48,8 @@ Cégep de Lévis
 - Accomplir diverses tâches de manutention et d'entretient.
 - Produire plusieurs lot d'un composé selon un horaire rigoureux.
 
-### Corem
-#### Technicien de laboratoire en procédés hydrométallurgiques
+### Technicien de laboratoire en procédés hydrométallurgiques
+#### Corem
 2019
 - Diviser les échantillons bruts provenant des clients.
 - Suivre attentivement les consignes de securité.
@@ -58,8 +58,8 @@ Cégep de Lévis
 - Opérer plusieurs réacteurs de laboratoire.
 - Enregistrer des données d'opérations selon un format standardisé.
 
-### Valero
-#### Ingénieur stagiaire en procédés pétrochimiques
+### Ingénieur stagiaire en procédés pétrochimiques
+#### Valero
 2018
 - Assister les ingénieurs en charge de la transformation du pétrole brut.
 - Mesurer plusieurs paramêtres sur la rafinerie a l'aide d'outils.
@@ -70,8 +70,8 @@ Cégep de Lévis
 - Agir en tant que guide pour des visteurs spécialistes.
 - Participer a l'amélioration de la documentation des procédés.
 
-### Pyrotek
-#### Ingénieur stagiaire en recherches et développements
+### Ingénieur stagiaire en recherches et développements
+#### Pyrotek
 2017
 - Assister l'ingénieur en charge des expérimentations de recherche.
 - Fabriquer des échantillons de matériaux réfractaires.
@@ -81,8 +81,8 @@ Cégep de Lévis
 - Analizer statistiquement des données d'essais de laboratoire.
 - Surveiller des procédés de fabrication à l'aide de contrôle qualité.
 
-### Canadian Malartic
-#### Technicien de laboratoire en procédés miniers
+### Technicien de laboratoire en procédés miniers
+#### Canadian Malartic
 2016
 - Agir en tant que prépose de laboratoire.
 - Échantillonner le procédé d'extraction de métaux.
@@ -93,8 +93,8 @@ Cégep de Lévis
 - Porter des équipements de protection individuel adéquats.
 - Circuler de façon sécuritaire et conforme.
 
-### CamPro MetoPlus
-#### Technicien stagiaire en procédés chimiques
+### Technicien stagiaire en procédés chimiques
+#### CamPro MetoPlus
 2016
 - Assister le chimiste de procédés électrochimiques.
 - Participer au traitements des rejets industriels.
@@ -102,8 +102,8 @@ Cégep de Lévis
 - Comprendre les principales branches du procédé de fabrications.
 - Effectuer des analyses de laboratoire.
 
-### Ferme Feodal
-#### Ouvrier de ferme laitiere
+### Ouvrier de ferme laitiere
+#### Ferme Feodal
 2011
 - Assurer le bien être des animaux.
 - Maintenir les lieux propres et sécuritaires.
@@ -111,8 +111,8 @@ Cégep de Lévis
 - Opérer les différents équipements hydrauliques.
 - Prendre en charge la ferme lorsque les propriétaires sont absent.
 
-### Famille Normand
-#### Enfant ouvrier jk
+### Enfant ouvrier jk
+#### Famille Normand
 2005
 - Assimiler efficacement des directives.
 - Penser de façons logiques et préventives.

@@ -1,5 +1,4 @@
 # Jérémie Normand
-Curriculum Vitae
 
 ### Qui suis-je
 Un homme de 25 ans

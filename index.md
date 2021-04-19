@@ -16,7 +16,7 @@ Cégep de Lévis-Lauzon
 
 ## Certifications
 
-### ASP construction sante et sécurité
+### ASP construction santé et sécurité
 Université de Sherbrooke
 2016
 

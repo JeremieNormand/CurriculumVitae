@@ -9,7 +9,7 @@ Comté de Bellechasse, Québec, Canada
 
 ## Diplômes
 
-### Technicien en génie chimique
+### DEC en Technique de génie chimique
 Cégep de Lévis-Lauzon
 2016
 

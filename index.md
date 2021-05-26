@@ -11,6 +11,7 @@ Comté de Bellechasse, Québec, Canada
 
 ### DEC en Technique de génie chimique
 Cégep de Lévis-Lauzon
+
 2016
 
 
@@ -18,6 +19,7 @@ Cégep de Lévis-Lauzon
 
 ### ASP construction santé et sécurité
 Université de Sherbrooke
+
 2016
 
 
@@ -25,14 +27,17 @@ Université de Sherbrooke
 
 ### Technicien en génie chimique
 Cégep de Lévis-Lauzon
+
 2013 - 2016
 
 ### Ingénieur en génie chimique (partiel)
 Université de Sherbrooke
+
 2016 - 2018
 
 ### Technicien en informatique (en-cours)
 Cégep de Lévis
+
 2020 - 2023
 
 
@@ -111,7 +116,7 @@ Cégep de Lévis
 - Opérer les différents équipements hydrauliques.
 - Prendre en charge la ferme lorsque les propriétaires sont absent.
 
-### Enfant ouvrier jk
+### Enfant ouvrier (jk)
 #### Famille Normand
 2005
 - Assimiler efficacement des directives.
